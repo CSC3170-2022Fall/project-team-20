@@ -18,7 +18,7 @@ Our team consists of the following members, listed in the table below (the team 
 
 | Student ID | Student Name | GitHub Account (in Email) |
 | ---------- | ------------ | ------------------------- |
-| 123010245  | 张三 🚩      | sanzhang@gmail.com        |
+| 123010245  | 罗开诚      | 826795780@qq.com       |
 | 120090498  | 祝家俊       | furnifx@gmail.com          |
 | 120090080  | 赵笃乐       | zdl2015235053@163.com     |
 | 120090850  | 龙及远       | liuchen@qq.com            |
