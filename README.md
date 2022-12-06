@@ -21,8 +21,9 @@ Our team consists of the following members, listed in the table below (the team 
 | 123010245  | 张三 🚩      | sanzhang@gmail.com        |
 | 120090498  | 祝家俊       | furnifx@gmail.com          |
 | 120090080  | 赵笃乐       | zdl2015235053@163.com     |
-| 123020245  | 陈六         | liuchen@qq.com            |
-| 123010249  | 朱九         | jiuzhu@163.com            |
+| 120090850  | 龙及远       | liuchen@qq.com            |
+| 120090847  | 曹潇         | jiuzhu@163.com            |
+| 120090894  | 陈艺文       | 120090894@link.cuhk.edu.cn|
 
 ## Project Specification
 
