@@ -16,10 +16,10 @@ Our team consists of the following members, listed in the table below (the team 
 
 <!-- change the info below to be the real case -->
 
-| Student ID | Student Name | GitHub Account (in Email) |    User Name (Github)    |
-| ---------- | ------------ | ------------------------- |    ------------------    |
+| Student ID | Student Name | GitHub Account (in Email) | User Name (Github) |
+| ---------- | ------------ | ------------------------- | ------------------ |
 | 123010245  | 罗开诚       | 826795780@qq.com          | 
-| 120090498  | 祝家俊       | furnifx@gmail.com         | github.com/FurnitureZhu  |
+| 120090498  | 祝家俊       | furnifx@gmail.com         | @FurnitureZhu      |
 | 120090080  | 赵笃乐       | zdl2015235053@163.com     |
 | 120090850  | 龙及远       | 2017039012@qq.com         |
 | 120090847  | 曹潇         | 3011759863@qq.com         |
